@@ -25,6 +25,8 @@
     position: relative;
 }
 
+/* /blocchi  */
+
 .contenitore-scarpa1 {
     width: 350px;
     height: 250px;
@@ -46,6 +48,8 @@
     font-size: 30px;
     font-family: 'Rubik Mono One', sans-serif;
 }
+
+/* /primo blocco */
 
 .contenitore-scarpa2 {
     width: 350px;
@@ -69,6 +73,8 @@
     font-family: 'Rubik Mono One', sans-serif;
 }
 
+/* /secondo blocco */
+
 .contenitore-scarpa3 {
     width: 350px;
     height: 250px;
@@ -90,6 +96,10 @@
     font-size: 30px;
     font-family: 'Rubik Mono One', sans-serif;
 }
+
+/* /terzo blocco */
+
+/* cerchietti */
 
 .cerchietto1 {
     height: 40px;
@@ -129,3 +139,5 @@
     margin-left: 1450px;
     margin-top: 30px;
 }
+
+/* /cerchietti */
